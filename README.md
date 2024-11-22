@@ -14,7 +14,7 @@
 
   Elecar is a fully responsive car website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-   <a href="https://adnan-bhaldar.github.io/Elecar/" target="_blank"><strong>➥ Live Demo</strong></a>
+   <a href="https://adnan-bhaldar.github.io/Elecar" target="_blank"><strong>➥ Live Demo</strong></a>
 
 </div>
 

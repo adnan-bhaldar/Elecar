@@ -7,8 +7,6 @@
 
   <br />
   <br />
-  
-  <img src="./preview.png" />
 
   <h2 align="center">Elecar - Car website</h2>
 
